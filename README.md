@@ -7,5 +7,5 @@
 * Over the development dataset it has achieved **0.90683** AUC score.
 # Use below comamnd to run 
 * Make sure to correctly put the path of dataset in the _main.py_ file.
-* 
+![path of training file](
 
