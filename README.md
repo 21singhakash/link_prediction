@@ -5,7 +5,8 @@
 * The solution uses word embeddings in capturing nodes and topologyical information of the graph in a lower dimensional space.
 * And using random walk algorithm the design solutoin is very scalable.
 * Over the development dataset it has achieved **0.90683** AUC score.
-# Use below comamnd to run 
-* Make sure to correctly put the path of dataset in the _main.py_ file.
-![path of training file](
 
+* Make sure to correctly put the path of dataset in the _main.py_ file.
+![path of training file](https://github.com/21singhakash/link_prediction/blob/main/pl.PNG)
+# Use below comamnd to run
+* _py main.py_
